@@ -1,0 +1,10 @@
+#kapital .bank-img {
+  position: relative;
+}
+#kapital .bank-img .bank-txt {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  width: 100%;
+  height: 100%;
+}/*# sourceMappingURL=style.css.map */
